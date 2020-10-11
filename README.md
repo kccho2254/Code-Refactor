@@ -1,5 +1,7 @@
 # Homework-One
-
+---
+permalink: /index.html
+---
 <p>This is a homework assignment for refactoring html/css code by proper SEO semantic standards for a hypothetical media company</p>
 
 * App URL: https://kccho2254.github.io/Homework-One/
