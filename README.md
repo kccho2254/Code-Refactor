@@ -8,7 +8,7 @@
 
 
 ## <h1>About</h1>
-<p>This assignment for refactoring HTML/CSS code follows SEO semantic standards for a hypothetical media company. If you would like to contribute to this project, or report a bug,  </p>
+<p>This assignment for refactoring HTML/CSS code follows SEO semantic standards for a hypothetical media company.</p>
 
 * App URL: https://kccho2254.github.io/Homework-One/
 * Github Repo: https://github.com/kccho2254/Homework-One
